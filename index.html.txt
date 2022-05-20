@@ -14,7 +14,7 @@
             <h2>A Codecademy Project</h2>
         </header>
         <main id="content" class="content">
-        <p id="messageSpot">Click Below for Random Message</p>
+        <p id="messageSpot">Click Below for Random Memories</p>
         <button id="button" onclick = "displayMessage()">Click Here</button>
         </main>
       </div>
